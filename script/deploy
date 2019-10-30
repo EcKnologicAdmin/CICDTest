@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd
+cd ~
 cd CICDTest
 git pull
 npm install
