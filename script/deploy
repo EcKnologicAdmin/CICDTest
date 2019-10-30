@@ -1,7 +1,3 @@
 #!/bin/sh
 
-cd ~
-cd CICDTest
-git pull
-npm install
-pm2 restart all
+pwd
